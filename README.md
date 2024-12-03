@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WaveUp Music App
   Projeto em Desenvolvido para Conclusao de um Trabalho do 4° Periodo da Faculdade de Analise e Desenvolvimento de Sistemas na Materia de Desenvolvimento Web Front-EndII. Monitorado Pelo Professor [Flavio Motta](https://github.com/FlavioAAMotta).
 
@@ -89,3 +90,6 @@
     </tr>
   </table>
 </div>
+=======
+# trabalhofront
+>>>>>>> ce8334109dd7dbda4692f03222467b200bc8e9ff
