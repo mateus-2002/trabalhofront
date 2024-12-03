@@ -21,24 +21,13 @@
     "react-router-dom": "^6.16.0",
     "react-scripts": "^3.0.1",
     "styled-components": "^6.1.1",
-    "util": "^0.12.5",
-    "uuid": "^9.0.1",
-    "uuidv4": "^6.2.13",
-    "web-vitals": "^2.1.4"
+    "util": "^0.12.5"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "eject": "react-scripts eject"
   },
   "browserslist": {
     "production": [
